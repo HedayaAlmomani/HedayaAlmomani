@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/hudhud/image/upload/v1656832029/%D9%83%D9%8A%D9%88%D9%88%D9%88%D9%88%D9%88%D9%88%D9%88%D9%88%D9%88%D8%AA_vdyknl.png" alt="GitHub Readme Stats Themes" width="100%"/>
+<img src="https://res.cloudinary.com/hudhud/image/upload/v1656833447/new_p2lntc.png" alt="GitHub Readme Stats Themes" width="100%"/>
 
 
 

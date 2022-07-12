@@ -11,7 +11,7 @@
 
 - 💬 Ask me about Web Development
 
-- 📫 How to reach me: Twitter, Instagram
+- 📫 How to reach me: linkedin, Instagram
 
 #### 
 

@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/hudhud/image/upload/v1656833447/new_p2lntc.png" alt="GitHub Readme Stats Themes" width="100%"/>
+<img src="https://res.cloudinary.com/hudhud/image/upload/v1657626220/rrrrrrr_mcadcm.png" width="100%"/>
 
 #### 
 - 🔭 I’m currently working as Full Stack Developer 
